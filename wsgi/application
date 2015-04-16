@@ -18,4 +18,4 @@ try:
 except IOError:
     pass
 
-from restunicapp import app as application
+from restuniscapp import app as application
